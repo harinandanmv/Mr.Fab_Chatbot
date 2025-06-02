@@ -33,6 +33,7 @@ The chatbot connects with [Groq's API](https://console.groq.com/) to fetch intel
    set API_KEY=your_groq_api_key      # Windows
 ````
 
+---
 
 ## 📁 Project Structure
 
