@@ -37,13 +37,12 @@ The chatbot connects with [Groq's API](https://console.groq.com/) to fetch intel
 
 ## 📁 Project Structure
 
-```
-mr-fab-chatbot/
-├── app.py              # Main script with chat logic
-├── requirements.txt    # Python packages required
-├── .gitignore          # Git ignored files
-└── README.md           # This file
-```
+* mr-fab-chatbot/
+
+  * 📄 `app.py` — Main script with chat logic
+  * 📄 `requirements.txt` — Python packages required
+  * 📄 `.gitignore` — Git ignored files
+  * 📄 `README.md` — This file
 
 ---
 
