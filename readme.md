@@ -1,6 +1,3 @@
-Here's your complete `README.md` content in **copy-paste-ready format**, all in **one single file**:
-
----
 
 ````markdown
 # 🤖⚽ Mr. Fab Football Chatbot
